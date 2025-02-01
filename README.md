@@ -55,11 +55,10 @@ Você pode conferir o resultado final do projeto clicando [aqui](https://nicolyj
 
 ### 📸 Imagens do Projeto
 
-####💻 Desktop
-<img src="https://github.com/user-attachments/assets/82f017b2-c447-4083-a0bf-0d8d9b3db39c" width="600">
-<img src="https://github.com/user-attachments/assets/543fbe1a-275d-4542-a495-24945f04bef9" width="500">
-
-###📱 Mobile
+<img src="https://github.com/user-attachments/assets/82f017b2-c447-4083-a0bf-0d8d9b3db39c" width="600"><br>
+<img src="https://github.com/user-attachments/assets/543fbe1a-275d-4542-a495-24945f04bef9" width="600"><br>
 <img src="https://github.com/user-attachments/assets/46098fdb-1503-4848-9595-1fe224e113e3" width="300">
+
+---
 
 Desenvolvido com 💜 por Nicoly Jang.
