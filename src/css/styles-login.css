@@ -1,0 +1,90 @@
+@import url(./global.css);
+
+body{
+    background-image: url(../assets/images/background-movies-series.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+/* Navbar*/
+.menu{
+    position: relative;
+}
+
+/* Sign In */
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 70%;
+    padding: 24px;
+    margin: 50px 0;
+    font-family: 'Quicksand', cursive;
+}
+
+.login{
+    width: 100%;
+    max-width: 800px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    background-color: var(--form-bg-color);
+    border-radius: 10px;
+}
+
+.login-title{
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 1.25rem;
+        letter-spacing: 2px;
+        margin-bottom: 24px;
+}
+
+.login-label{
+    text-align: left;
+}
+
+.login-field{
+    background-color: var(--form-field-bg-color);
+    border: var(--form-field-border);
+    border-radius: 10px;
+    padding: 16px;
+    color: var(--text-color);
+    font-size: 1rem;
+}
+
+.login-field::placeholder{
+    color: var(--form-field-placeholder);
+}
+
+.login-field:invalid{
+   border-color: var(--form-field-error);
+} 
+
+.login-actions{
+    margin-top: 20px;
+    text-align: left;
+}
+
+.login-link{
+    color: var(--link-color);
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 24px;
+}
+
+/* Responsive */
+@media screen and (max-width: 480px){
+    body{
+        height: auto;
+    }
+    .login-actions .button{
+        display: block;
+        margin-bottom: 24px;
+    }
+    .login-link{
+        margin: 0;
+    }
+}
