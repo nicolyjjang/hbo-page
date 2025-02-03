@@ -46,7 +46,7 @@ Este foi o último projeto desenvolvido como parte da **Formação CSS Developer
 ## 🎨 Protótipo  
 
 Para auxiliar na construção do layout, um protótipo foi disponibilizado no **Figma**:  
-🔗 [Link para o Figma]() 
+🔗 [Link para o Figma](https://www.figma.com/design/b69zpssHQkOj1wRo7T1xEb/HBOmax?node-id=9-281&t=mt0rmcGbqTUi9IlI-1) 
 
 ---
 
